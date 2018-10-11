@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">DataLife</string>
+    <string name="sub_title">Le jeu</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="four_players">4 joueurs</string>
+    <string name="five_players">5 joueurs</string>
+    <string name="six_players">6 joueurs</string>
+    <string name="player_name">Name</string>
+    <string name="next">Next</string>
+    <string name="denounce_button">denounce</string>
+    <string name="spy_button">Spy</string>
+    <string name="chose_room">Chose a room</string>
+    <string name="button_ok">ok</string>
+    <string name="button_stop_tour">Finish your turn</string>
+    <string name="no_player">No player have been to this room before</string>
+
+    <string-array name="family_cards_array">
+        <item>family1</item>
+        <item>family2</item>
+        <item>family3</item>
+        <item>family4</item>
+        <item>family5</item>
+        <item>family6</item>
+        <item>family7</item>
+        <item>family8</item>
+    </string-array>
+
+    <string-array name="taste_cards_array">
+        <item>taste1</item>
+        <item>taste2</item>
+        <item>taste3</item>
+        <item>taste4</item>
+        <item>taste5</item>
+        <item>taste6</item>
+        <item>taste7</item>
+        <item>taste8</item>
+    </string-array>
+
+    <string-array name="affinity_cards_array">
+        <item>affinity1</item>
+        <item>affinity2</item>
+        <item>affinity3</item>
+        <item>affinity4</item>
+        <item>affinity5</item>
+        <item>affinity6</item>
+        <item>affinity7</item>
+        <item>affinity8</item>
+    </string-array>
+
+    <string-array name="aspiration_cards_array">
+        <item>aspiration1</item>
+        <item>aspiration2</item>
+        <item>aspiration3</item>
+        <item>aspiration4</item>
+        <item>aspiration5</item>
+        <item>aspiration6</item>
+        <item>aspiration7</item>
+        <item>aspiration8</item>
+    </string-array>
+
+    <string-array name="secret_cards_array">
+        <item>secrets1</item>
+        <item>secrets2</item>
+        <item>secrets3</item>
+        <item>secrets4</item>
+        <item>secrets5</item>
+        <item>secrets6</item>
+        <item>secrets7</item>
+        <item>Hacker</item>
+    </string-array>
+
+    <string-array name="rooms">
+        <item>Salle informatique</item>
+        <item>BDE</item>
+        <item>Bibliotheque</item>
+        <item>WC</item>
+        <item>Salle C101</item>
+        <item>Salle C102</item>
+        <item>Salle C103</item>
+        <item>Salle C104</item>
+        <item>Salle C105</item>
+        <item>Self</item>
+        <item>Hall</item>
+        <item>Parc</item>
+    </string-array>
+
+    <string-array name="rooms1012">
+        <item>BDE</item>
+        <item>Bibliotheque</item>
+        <item>WC</item>
+        <item>Salle C101</item>
+        <item>Salle C102</item>
+        <item>Salle C103</item>
+        <item>Salle C104</item>
+        <item>Salle C105</item>
+        <item>Self</item>
+        <item>Hall</item>
+        <item>Parc</item>
+    </string-array>
+
+    <string-array name="rooms1213">
+        <item>Salle informatique</item>
+        <item>BDE</item>
+        <item>WC</item>
+        <item>Salle C101</item>
+        <item>Salle C102</item>
+        <item>Salle C103</item>
+        <item>Salle C104</item>
+        <item>Salle C105</item>
+        <item>Self</item>
+        <item>Hall</item>
+        <item>Parc</item>
+    </string-array>
+
+    <string-array name="rooms1416">
+        <item>Salle informatique</item>
+        <item>BDE</item>
+        <item>Bibliotheque</item>
+        <item>WC</item>
+        <item>Salle C101</item>
+        <item>Salle C102</item>
+        <item>Salle C103</item>
+        <item>Salle C104</item>
+        <item>Self</item>
+        <item>Hall</item>
+        <item>Parc</item>
+    </string-array>
+
+
+    <string-array name="salle_informatique_time">
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="bde_time">
+    </string-array>
+
+    <string-array name="bibliotheque_time">
+        <item>12</item>
+    </string-array>
+
+    <string-array name="wc_time">
+    </string-array>
+
+    <string-array name="salle_c101_time">
+    </string-array>
+
+    <string-array name="salle_c102_time">
+    </string-array>
+
+    <string-array name="salle_c103_time">
+    </string-array>
+
+    <string-array name="salle_c104_time">
+    </string-array>
+
+    <string-array name="salle_c105_time">
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="self_time">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="hall_time">
+    </string-array>
+
+    <string-array name="parc_time">
+    </string-array>
+
+    <string-array name="salle_informatique">
+        <item>EMAIL</item>
+        <item>FB</item>
+    </string-array>
+
+    <string-array name="bde">
+        <item>EUROS</item>
+        <item>SMS</item>
+    </string-array>
+
+    <string-array name="bibliotheque">
+        <item>EUROS</item>
+        <item>EMAIL</item>
+    </string-array>
+
+    <string-array name="wc">
+        <item>FB</item>
+        <item>SMS</item>
+    </string-array>
+
+    <string-array name="salle_c101">
+        <item>FB</item>
+    </string-array>
+
+    <string-array name="salle_c102">
+        <item>EMAIL</item>
+        <item>SMS</item>
+    </string-array>
+
+    <string-array name="salle_c103">
+        <item>EUROS</item>
+        <item>SMS</item>
+    </string-array>
+
+    <string-array name="salle_c104">
+        <item>SMS</item>
+    </string-array>
+
+    <string-array name="salle_c105">
+        <item>FB</item>
+        <item>EUROS</item>
+    </string-array>
+
+    <string-array name="self">
+        <item>EUROS</item>
+        <item>SMS</item>
+        <item>FB</item>
+        <item>EMAIL</item>
+    </string-array>
+
+    <string-array name="hall">
+        <item>SMS</item>
+        <item>FB</item>
+    </string-array>
+
+    <string-array name="parc">
+        <item>SMS</item>
+        <item>FB</item>
+        <item>EMAIL</item>
+    </string-array>
+
+
+
+</resources>
